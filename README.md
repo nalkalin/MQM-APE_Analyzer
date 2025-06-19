@@ -24,6 +24,7 @@ This analyzer processes the results from MQM-APE evaluations and provides compre
 - **Provide detailed error feedback with visual reports** / **提供带有可视化报告的详细错误反馈**
 - **Compare student performance across multiple assignments** / **比较学生在多个作业中的表现**
 
+
 ![image](https://github.com/nalkalin/MQM-APE_Analyzer/blob/main/mqm_charts.png?raw=true)
 
 ## Features / 功能特性
